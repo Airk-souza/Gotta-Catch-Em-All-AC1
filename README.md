@@ -1,10 +1,10 @@
 # 🚀Gotta-Catch-Em-All-AC1
 <h2>Pokemon e programação orientada a objetos</h2>
 
-Utilizando o que aprendi em sala de aula desenvolvi um singelo simulador de batalhas pokemon.
-Seguindo os conceitos de encapsulamento, herança, abstração e Polimorfismo.
-
-Tentei trabalhar com enums de forma bem primitiva. Pretendo lapidar isso no futuro :D.
+Utilizando o que aprendi em sala de aula, desenvolvi um simples simulador de batalhas pokemon como avaliação
+da disciplina de Linguagem de progração do curso de análise e desenvolvimento de sistemas.
+Segui os conceitos de encapsulamento, herança, abstração e polimorfismo e.
+Tentei trabalhar com enums de forma bem primitiva, pretendo melhorar isso no futuro :D.
 
 
 
