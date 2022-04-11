@@ -9,3 +9,5 @@ Tentei trabalhar com enums de forma bem primitiva. Pretendo lapidar isso no futu
 
 
 
+https://user-images.githubusercontent.com/85415148/162694087-e48a0e21-5bb4-4afd-8d31-7c903a09df08.mp4
+
